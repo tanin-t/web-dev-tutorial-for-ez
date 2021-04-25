@@ -5,6 +5,7 @@
 หรือมีความคิดเห็นยังไงขอให้บอกพี่จ๊อบโดยการเปิด issue ได้เลยครับ
 
 ## สิ่งที่ควรมี/ควรรู้ แล้วจะทำให้การเรียนง่ายขึ้น
+
 - HTML พื้นฐาน
 - CSS พื้นฐาน
 - สมัครบัญชี e-mail ของตัวเอง
@@ -12,6 +13,7 @@
 - ความอยากรู้
 
 ## สิ่งที่จะเรียน (รายการนี้อาจเปลี่ยนแปลงได้)
+
 - JavaScript
 - Vuejs
 	- Vue Basic
@@ -21,3 +23,7 @@
 	- Vuex
 	- Vue Component Library
 - NoSQL Database (Firebase)
+
+# JavaScript
+
+1. [Hello World, JavaScript](./01-javascript-hello-world.md)
