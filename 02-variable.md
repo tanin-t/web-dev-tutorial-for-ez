@@ -25,8 +25,7 @@
 
 # Variables
 
-![](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Variables/boxes.png)
-
+<img src="https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Variables/boxes.png" width="400">
 เราอาจมองว่าการเก็บข้อมูลในตัวแปรเหมือนกันเก็บของลงในกล่อง ในภาษา JavaScript เราสามารถประกาศตัวแปรได้โดย
 
 ```javascript
@@ -50,7 +49,7 @@ let myName = "Bob"
 
 วิธีหนึ่งในการแปลงตัวอักษรเป็น binary คือการใช้ [ASCII Table](https://www.rapidtables.com/code/text/ascii-table.html)
 
-![ascii-table](./images/ascii-table.png)
+<img src="./images/ascii-table.png" width="300">
 
 จากตารางจะได้ว่า
 - B แปลงเป็น `01000010`
@@ -78,8 +77,7 @@ let name = "Bob"
 let hasBlueEye = true
 let age = 35
 ```
-
-![](./images/boxes.png)
+<img src="./images/boxes.png" width="400">
 
 ใน JavaScript มี ประเภทข้อมูลพื้นฐาน (Primitive Data Type) ทั้งหมด 6 ประเภท
 - String: ข้อมูลประเภทตัวอักษร เช่น "Hello", 'How are you?', '8'
