@@ -27,3 +27,4 @@
 # JavaScript
 
 1. [Hello World, JavaScript](./01-javascript-hello-world.md)
+2. [Variable](./02-variable.md)
